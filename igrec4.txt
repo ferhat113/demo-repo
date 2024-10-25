@@ -1,3 +1,9 @@
 future devops
 ferhat chibane
 hello world
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   file1
+	deleted:    file1.txt
+
